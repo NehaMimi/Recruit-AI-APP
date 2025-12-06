@@ -1,0 +1,5 @@
+{
+  "name": "Recruit-AI",
+  "description": "An intelligent recruitment dashboard that uses AI to screen resumes against job descriptions, providing ranked insights and automated scheduling.",
+  "requestFramePermissions": []
+}
